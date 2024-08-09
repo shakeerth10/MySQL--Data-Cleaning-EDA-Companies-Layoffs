@@ -5,12 +5,13 @@ This project involves cleaning a dataset containing information about layoffs fr
 Table of Contents:-
 
 1) Data Description
+
 2) Data Cleaning Steps
       Step 1: Remove Duplicates
       Step 2: Standardize Data
       Step 3: Handle NULL or Blank Values
       Step 4: Remove Unnecessary Columns
-3) Exploratory Data Analysis (EDA)
+4) Exploratory Data Analysis (EDA)
   a.Summary Statistics
   b.Distribution Analysis
   c.Trend Analysis
